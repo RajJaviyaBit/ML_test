@@ -1,0 +1,13 @@
+
+06/10/2025/13:05:04
+ 06/10/2025/13:08:04User Input:-  Hello 
+
+ 06/10/2025/13:08:04AI response:- Hello. How can I help you today?, 
+
+ 06/10/2025/13:08:10User Input:-  i am raj 
+
+ 06/10/2025/13:08:10AI response:- Nice to meet you, Raj. Is there something I can help you with or would you like to chat?, 
+
+ 06/10/2025/13:08:14User Input:-  bye 
+
+ 06/10/2025/13:08:14AI response:- Goodbye Raj. Have a great day., 
